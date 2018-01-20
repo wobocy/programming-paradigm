@@ -6,6 +6,6 @@
 * 编程范式之间并非是相互独立的，而是有很多共性。
 
 ## 特征
-### observable nondeterminism
+### 1 observable nondeterminism
 
-### how strongly they support state
+### 2 how strongly they support state
