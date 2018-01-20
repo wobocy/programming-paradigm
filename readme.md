@@ -1,12 +1,13 @@
 # Readme.md
 
-## 目的
-### 编程范式
-* 编程范式是编程中的世界观，给出了看待程序的方式，编程范式中提供的思想是语言设计的基础，理解相应的编程范式才能从本质上理解某一设计语言为什么如此设计。目前很多语言都支持多个范式，如，java语言就支持 命令范式，面向对象，函数式编程，并发编程，流等多种。  
-* 从某种程度上来说，编程范式也是已被的证明行之有效的解决某类问题的方法。
-* 不同的编程范式关注点也有所不同，如有的范式关心的是 程序的执行模型，有的则关注程序的组织方式等。
+## 内容结构
+1. 声明式编程 Declarative Programming
+* 
+*
+
 
 ### 本汇总的目的
 以通俗的方式阐述不同编程范式的思想，并结合具体的语言对编程范式进行介绍。
 
-## 格式要求，见：[format.md](https://github.com/wobocy/programming-paradigm/blob/dev/format.md)
+## 参与
+### 格式要求，见：[format.md](https://github.com/wobocy/programming-paradigm/blob/dev/format.md)
