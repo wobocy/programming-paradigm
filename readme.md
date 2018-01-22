@@ -2,8 +2,11 @@
 
 ## 内容结构
 1. 声明式编程 Declarative Programming
-* 
-*
+   * dataflow programming
+   * functional programming
+2. 命令式编程 Imperative Programming
+3. 并发编程 Concurrent Programming
+4. 元数据编程 MetaProgramming
 
 
 ### 本汇总的目的
