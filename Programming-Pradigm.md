@@ -1,11 +1,18 @@
-# 编程范式
-## 定义
-* 编程范式是一种编程方法，它基于某个数学理论或一的些列相关原则。
-* 每个编程范式都有一系列的概念，这些概念为的是很好的解决某类问题。Each paradigm consists of a set of concepts.
-* 每种语言都至少实现了一个编程范式。Each language realizes one or more paradigms.
-* 编程范式之间并非是相互独立的，而是有很多共性。
+# Programming Paradigm
+## Definition
+Solving a programming problem requires choosing the right concepts. All but the smallest toy problems require different sets of concepts for different parts. This is why programming languages should support many paradigms.   
+A programming paradigm is an approach to programming a computer based on a mathematical theory or a coherent set of principles. Each paradigm supports a set of concepts that makes it the best for a certain kind of problem.
+* Each paradigm consists of a set of concepts.
+* paradigms are not islands, they have a lot in common.
+* Each language realizes one or more paradigms.
 
-## 特征
+
+## Two Properties of Programming Paradigm
 ### 1 observable nondeterminism
-
 ### 2 how strongly they support state
+
+## Four Most Important Programming Concepts
+1. Records
+2. Lexically scoped closures
+3. Independency(concurrency)
+4. Named state
