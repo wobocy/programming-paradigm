@@ -1,18 +1,31 @@
 # Programming Paradigm
 ## Definition
-Solving a programming problem requires choosing the right concepts. All but the smallest toy problems require different sets of concepts for different parts. This is why programming languages should support many paradigms.   
-A programming paradigm is an approach to programming a computer based on a mathematical theory or a coherent set of principles. Each paradigm supports a set of concepts that makes it the best for a certain kind of problem.
-* Each paradigm consists of a set of concepts.
-* paradigms are not islands, they have a lot in common.
-* Each language realizes one or more paradigms.
+Solving a programming problem requires choosing the right concepts.   
+A programming paradigm is an approach to programming a computer based on a mathematical theory or a coherent set of principles for a certain kind of problem. Each paradigm supports a set of programming concepts that makes it the best for this problem. The concepts are basic primitive elements used to construct the paradigms, the paradigm is emerged from those concepts.
+* Paradigms are not islands, they have a lot in common.
+* Each language realizes one or more paradigms because languages are designed for solving different kind of problems. Those languages typically includes one paradigm for programming in the small which is chosen for the kind of problem most frequently targeted by this language, one paradigm for programming in large which is chosen to support abstraction and modularity.
 
-
-## Two Properties of Programming Paradigm
+## Paradigm Properties
 ### 1 observable nondeterminism
 ### 2 how strongly they support state
 
-## Four Most Important Programming Concepts
+## Paradigm Classification
+* 
+
+## Programming Concepts(four most important)
 1. Records
 2. Lexically scoped closures
 3. Independency(concurrency)
 4. Named state
+
+## Data abstraction
+
+
+## Type
+类型，定义了一个变量取值，可作用域变量的操作。如基础类型，int float等，对象和函数也有自己的类型。类型可以分为三类： 
+* first class   
+该类型的变量的值可以作为函数的参数和返回值，也可以赋给变量。
+* second class  
+该类型的值可以作为函数的参数，但不能从函数返回，也不能赋给变量。
+* third class   
+该类型的值作为函数参数也不行

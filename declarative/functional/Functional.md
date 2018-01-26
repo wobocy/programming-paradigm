@@ -1,6 +1,6 @@
 # Functional Programming 函数式编程
 ## 基本思想
-函数的地位与变量类似，可以像传递变量一样传递函数。函数式编程将程序视为一系列函数嵌套的函数调用。
+It is based on the concepts of first class function or closure which makes functions are the same as variables. 函数式编程将程序视为一系列函数嵌套的函数调用。
 
 ## 针对的问题
 1. 针对问题  
