@@ -7,8 +7,8 @@ A programming paradigm is an approach to programming a computer based on a mathe
 
 ## Folder Structure
 1. Declarative Programming
-   * dataflow programming
-   * functional programming
+   * [dataflow programming](https://github.com/wobocy/programming-paradigm/tree/master/declarative/dataflow)
+   * [functional programming](https://github.com/wobocy/programming-paradigm/tree/master/declarative/functional)
 2. Imperative Programming
 3. Concurrent Programming
 4. MetaProgramming

@@ -13,8 +13,14 @@ A programming paradigm is an approach to programming a computer based on a mathe
 * 
 
 ## Programming Concepts(four most important)
-1. Records
+1. Records  
+Records is a data structures: a group of references to data items with indexed access to each item.(just like structs ) Record is the foundation of symbolic programming(of cource, there is graphic programming). A sysmbolic programming language is able to: 
+   * calculate with records
+   * create new records
+   * decompose records
+   * examine records
 2. Lexically scoped closures
+Lexically scoped cl
 3. Independency(concurrency)
 4. Named state
 
@@ -29,3 +35,14 @@ A programming paradigm is an approach to programming a computer based on a mathe
 该类型的值可以作为函数的参数，但不能从函数返回，也不能赋给变量。
 * third class   
 该类型的值作为函数参数也不行
+
+## Scope
+1. Function Scope
+any variable which is defined within a function is visible within that entire function.
+2. Block Scope  
+any variable which is defined within a block is visible within that entire block. a block can be expressed as {} or for(xx){} 
+3. Lexical Scoping  
+Lexical Scoping defines how variable names are resolved in nested functions. Other names of Lexical Scoping are Static Scoping or Closure.
+
+## Reference 
+1. 
