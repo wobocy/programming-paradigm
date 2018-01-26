@@ -1,7 +1,6 @@
 # Readme.md
 
-# Why Programming Paradigm?
-Solving a programming problem requires choosing the right concepts.   
+## Why Programming Paradigm?  
 A programming paradigm is an approach to programming a computer based on a mathematical theory or a coherent set of principles for a certain kind of problem. Each paradigm supports a set of programming concepts that makes it the best for this problem. The concepts are basic primitive elements used to construct the paradigms, the paradigm is emerged from those concepts.
 * Paradigms are not islands, they have a lot in common.
 * Each language realizes one or more paradigms because languages are designed for solving different kind of problems. Those languages typically includes one paradigm for programming in the small which is chosen for the kind of problem most frequently targeted by this language, one paradigm for programming in large which is chosen to support abstraction and modularity.
